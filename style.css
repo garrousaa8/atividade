@@ -1,0 +1,39 @@
+body {
+    color: white;
+    background-color: rgb(55, 11, 77);
+    margin: 2rem;
+    padding: 7%;
+    width: 85%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 150;
+    font-size: 13px;
+}
+
+
+
+p {
+    background-color:black;
+    color: bisque;
+    padding: 0.125rem;
+    margin: 0.125rem;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+section {
+    background-color: black;
+    font-size: 2vh;
+    font-weight: 2vh;
+    border: 15rem;
+    border-radius: 1.5rem;
+    margin: 2rem;
+    padding: 7%;
+}
+
+
+div {
+    margin: 2rem;
+    padding: 2rem;
+}
